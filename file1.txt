@@ -1,1 +1,1 @@
-Learning Devops GIT AND GITHUB
+Learning Devops GIT AND GITHUB and gradle
